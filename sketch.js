@@ -95,7 +95,6 @@ function mouseDragged()
 function mouseReleased()
 {
 	launcherObject.fly();
-    // distance=int(dist(stoneObj.x,stoneObj.y,mango1.x,mango1.y));
 }
 
 function keyPressed() {
